@@ -43,3 +43,4 @@ ch.setFormatter(formatter)
 # aux.some_function()
 # logger.info('done with auxiliary_module.some_function()')
 
+# remove test_time & test_scenarios
